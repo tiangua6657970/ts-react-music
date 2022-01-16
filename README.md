@@ -36,4 +36,30 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+#图片预览
+
+
 ![Image text](./public/recommend.png)
+![Image text](./public/recommend-detail.png)
+![Image text](./public/singer.png)
+![Image text](./public/top-list.png)
+![Image text](./public/top-list-detail.png)
+![Image text](./public/top-list-detail2.png)
+![Image text](./public/player-cd.png)
+![Image text](./public/player-lyirc.png)
+![Image text](./public/search.png)
+![Image text](./public/search-list.png)
+![Image text](./public/cofirm.png)
+![Image text](./public/mini-player.png)
+![Image text](./public/playlist.png)
+![Image text](./public/add-song.png)
+![Image text](./public/add-song2.png)
+![Image text](./public/user-content.png)
+![Image text](./public/user-content2.png)
+![Image text](./public/lazy.png)
+![Image text](./public/lazy2.png)
+![Image text](./public/animation.png)
+![Image text](./public/animation2.png)
+![Image text](./public/transition.png)
+![Image text](./public/transition2.png)
+![Image text](./public/pull-top.png)
